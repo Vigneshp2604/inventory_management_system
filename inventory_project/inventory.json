@@ -1,0 +1,92 @@
+{
+    "PROD001": {
+        "product_id": "PROD001",
+        "name": "Wireless Bluetooth Headphones",
+        "price": 79.99,
+        "quantity": 145
+    },
+    "PROD002": {
+        "product_id": "PROD002",
+        "name": "Ergonomic Office Chair",
+        "price": 249.99,
+        "quantity": 32
+    },
+    "PROD003": {
+        "product_id": "PROD003",
+        "name": "Stainless Steel Water Bottle",
+        "price": 24.95,
+        "quantity": 210
+    },
+    "PROD004": {
+        "product_id": "PROD004",
+        "name": "Wireless Charging Pad",
+        "price": 35.50,
+        "quantity": 78
+    },
+    "PROD005": {
+        "product_id": "PROD005",
+        "name": "Mechanical Keyboard",
+        "price": 129.99,
+        "quantity": 56
+    },
+    "PROD006": {
+        "product_id": "PROD006",
+        "name": "Premium Notebook Set",
+        "price": 19.95,
+        "quantity": 175
+    },
+    "PROD007": {
+        "product_id": "PROD007",
+        "name": "Ultra HD Monitor",
+        "price": 349.99,
+        "quantity": 23
+    },
+    "PROD008": {
+        "product_id": "PROD008",
+        "name": "Smart LED Desk Lamp",
+        "price": 45.75,
+        "quantity": 62
+    },
+    "PROD009": {
+        "product_id": "PROD009",
+        "name": "External SSD 1TB",
+        "price": 159.99,
+        "quantity": 41
+    },
+    "PROD010": {
+        "product_id": "PROD010",
+        "name": "Noise-Cancelling Earbuds",
+        "price": 129.50,
+        "quantity": 85
+    },
+    "PROD011": {
+        "product_id": "PROD011",
+        "name": "Adjustable Standing Desk",
+        "price": 399.99,
+        "quantity": 19
+    },
+    "PROD012": {
+        "product_id": "PROD012",
+        "name": "Wireless Mouse",
+        "price": 45.00,
+        "quantity": 112
+    },
+    "PROD013": {
+        "product_id": "PROD013",
+        "name": "Laptop Stand",
+        "price": 29.99,
+        "quantity": 67
+    },
+    "PROD014": {
+        "product_id": "PROD014",
+        "name": "Webcam HD 1080p",
+        "price": 89.95,
+        "quantity": 34
+    },
+    "PROD015": {
+        "product_id": "PROD015",
+        "name": "Bluetooth Speaker",
+        "price": 65.75,
+        "quantity": 91
+    }
+}
